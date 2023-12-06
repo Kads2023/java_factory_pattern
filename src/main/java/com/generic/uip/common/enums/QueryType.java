@@ -1,0 +1,5 @@
+package com.generic.uip.common.enums;
+
+public enum QueryType {
+    SOURCE_DATA_CHECK, SOURCE_COUNT_CHECK, SOURCE_SCHEMA, SOURCE_EXTRACTOR, TARGET_WRITER, TARGET_DELETE, TARGET_COUNT_CHECK;
+}
